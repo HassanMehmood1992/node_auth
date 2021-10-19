@@ -36,6 +36,7 @@ https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 # Upcoming
 
 - Setup Demo (firebase or AWS)
-- Add Authentication Logic
+- Add Authentication Logic - Done
+- Add User Roles and Permissions
 - Add Mongo DB
 - Dockorize solution as 2 separate containers
